@@ -4,5 +4,5 @@
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | **IPL Score Prediction**                     | Predict first-inning scores in IPL matches using **EDA** and various regression models (Linear, Decision Tree, Random Forest, etc.).        | [IPL score Prediction](https://github.com/nithinbadicodes/AI-ML-Projects/tree/master/IPL_score_prediction)                                                                 |
 | **Iris Flower Species Classification**       | Classify iris flowers into different species based on petal and sepal measurements using classic machine learning algorithms.               | [Iris Flower Classification](https://github.com/nithinbadicodes/AI-ML-Projects/tree/master/Iris_Flower_classification)
-| **Employee Turnover Prediction**       | Predict employee turnover using **scikit-learn** decision trees and random forest models.              | [Employee turnover prediction]()
+| **Employee Turnover Prediction**       | Predict employee turnover using **scikit-learn** decision trees and random forest models.              | [Employee turnover prediction](https://github.com/nithinbadicodes/AI-ML-Projects/tree/master/Employee_turnover_prediction)
 
